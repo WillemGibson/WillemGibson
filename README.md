@@ -1,3 +1,4 @@
+![masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/bbefa799786133.5efa9bf3d1b49.gif)
 <h1 align="center">Hi 👋, I'm Willem!</h1>
 <h3 align="center">A passionate Software Engineer from Australia</h3>
 <img align="right" alt="coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
