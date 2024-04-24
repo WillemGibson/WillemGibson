@@ -1,4 +1,4 @@
-[![MasterHead](https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif)
+![MasterHead](https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif)
 <h1 align="center">Hi 👋, I'm Willem!</h1>
 <h3 align="center">A passionate Software Engineer from Australia</h3>
 <img align="right" alt="coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
