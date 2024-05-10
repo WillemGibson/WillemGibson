@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Business & Self-improvement.**
 
-- 📫 How to reach me **willemgibson@protonmail.com**
+- 📫 How to reach me **willemjackgibson@gmail.com**
 
 - ⚡ Fun fact **I make YouTube Videos.**
 
