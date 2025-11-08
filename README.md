@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willemgibson&label=Profile%20views&color=0e75b6&style=flat" alt="willemgibson" /> </p>
 
-- 🔭 I’m currently working on **Coder Academy course.**
+- 🔭 I’m currently working on **Libr - Ai Book Tracker**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Rork**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
 - 💬 Ask me about **Business & Self-improvement.**
 
-- 📫 How to reach me **willemjackgibson@gmail.com**
+- 📫 How to reach me **willemgibson@protonmail.com**
 
 - ⚡ Fun fact **I make YouTube Videos.**
 
